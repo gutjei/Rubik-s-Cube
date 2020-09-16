@@ -3,7 +3,7 @@ Non 3d graphics lib. Just my desire to play with linear algebra
 
 Созданный на коленках кубик рубик в попытках применить знания линейной алгебры.
 
-Библиотеки:\n
+Библиотеки:
 pip install pygame 
 pip install mumpy
 
