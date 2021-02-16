@@ -6,7 +6,7 @@ Non 3d graphics lib. Just my desire to play with linear algebra
 ## Библиотеки:
 pip install pygame 
 
-pip install mumpy
+pip install numpy
 
 ## Запуск:
 
